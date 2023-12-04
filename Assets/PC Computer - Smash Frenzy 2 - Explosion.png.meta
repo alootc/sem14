@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: ed58e9d8ca530e642bd16e10bf5d4947
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Smash Frenzy 2 - Explosion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252.8
+        width: 64
+        height: 63.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875dea7eb9197164085ebeb909b046db
+      internalID: -517140117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Smash Frenzy 2 - Explosion_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 252.8
+        width: 64
+        height: 63.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ab44320806acb42844bf4028fd5324
+      internalID: -1326182000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Smash Frenzy 2 - Explosion_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 252.8
+        width: 64
+        height: 63.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff95336c8f28764bb3121e8523a5f89
+      internalID: 612120077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Smash Frenzy 2 - Explosion_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 252.8
+        width: 64
+        height: 63.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf500b54bd486a0478e7f821bfc15147
+      internalID: 707114183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Smash Frenzy 2 - Explosion_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189.8
+        width: 64
+        height: 63.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca34a0254dbd5a441b1311d774180a25
+      internalID: -211202718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Smash Frenzy 2 - Explosion_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 189.8
+        width: 64
+        height: 63.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7385b9791ca21d443b618437c9812734
+      internalID: 191296993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Smash Frenzy 2 - Explosion_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 189.8
+        width: 64
+        height: 63.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9fb74b7c713f74da45499ab243fb2c
+      internalID: -1894385008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Smash Frenzy 2 - Explosion_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 189.8
+        width: 64
+        height: 63.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351ac8695b4013e49af86928fb59aa76
+      internalID: 1003115816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Smash Frenzy 2 - Explosion_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126.8
+        width: 64
+        height: 63.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a830ce9fed9324f8c1412fe1084123
+      internalID: 1781817183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Smash Frenzy 2 - Explosion_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 126.8
+        width: 64
+        height: 63.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a65bf79eefa89e4aa4fc8db080863f2
+      internalID: -1927449224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Smash Frenzy 2 - Explosion_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 126.8
+        width: 64
+        height: 63.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980c60450d3c6c848b588efe0d10830d
+      internalID: -736777003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Smash Frenzy 2 - Explosion_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 126.8
+        width: 64
+        height: 63.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbe6c0e7358f984b9ff48cf0d0e8a3c
+      internalID: 2069709917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Smash Frenzy 2 - Explosion_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63.8
+        width: 64
+        height: 63.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2feb5282a4a764fbfd5105691f485b
+      internalID: 873451680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Smash Frenzy 2 - Explosion_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63.8
+        width: 64
+        height: 63.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5864bc9e88df048aa576d283680cb1
+      internalID: 1716520357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Smash Frenzy 2 - Explosion_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 63.8
+        width: 64
+        height: 63.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1467cea461adb49874969b7c24a105
+      internalID: 1546769298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Smash Frenzy 2 - Explosion_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 63.8
+        width: 64
+        height: 63.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79ef5aec5d37fa4cad5f76788708414
+      internalID: -359235673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Smash Frenzy 2 - Explosion_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.79999924
+        width: 64
+        height: 63.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3694afec46abe418ed2a2f4aad81f2
+      internalID: -1677932085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Smash Frenzy 2 - Explosion_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0.79999924
+        width: 64
+        height: 63.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a3c62581d42264b8f482a2d4cbf02f
+      internalID: 1525161067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Smash Frenzy 2 - Explosion_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0.79999924
+        width: 64
+        height: 63.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cf0ef45781923429466b654156755d
+      internalID: 599999229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Smash Frenzy 2 - Explosion_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0.79999924
+        width: 64
+        height: 63.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef392c818c3d6d54e839abf327707db8
+      internalID: 882528394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Smash Frenzy 2 - Explosion_0: -517140117
+      PC Computer - Smash Frenzy 2 - Explosion_1: -1326182000
+      PC Computer - Smash Frenzy 2 - Explosion_10: -736777003
+      PC Computer - Smash Frenzy 2 - Explosion_11: 2069709917
+      PC Computer - Smash Frenzy 2 - Explosion_12: 873451680
+      PC Computer - Smash Frenzy 2 - Explosion_13: 1716520357
+      PC Computer - Smash Frenzy 2 - Explosion_14: 1546769298
+      PC Computer - Smash Frenzy 2 - Explosion_15: -359235673
+      PC Computer - Smash Frenzy 2 - Explosion_16: -1677932085
+      PC Computer - Smash Frenzy 2 - Explosion_17: 1525161067
+      PC Computer - Smash Frenzy 2 - Explosion_18: 599999229
+      PC Computer - Smash Frenzy 2 - Explosion_19: 882528394
+      PC Computer - Smash Frenzy 2 - Explosion_2: 612120077
+      PC Computer - Smash Frenzy 2 - Explosion_3: 707114183
+      PC Computer - Smash Frenzy 2 - Explosion_4: -211202718
+      PC Computer - Smash Frenzy 2 - Explosion_5: 191296993
+      PC Computer - Smash Frenzy 2 - Explosion_6: -1894385008
+      PC Computer - Smash Frenzy 2 - Explosion_7: 1003115816
+      PC Computer - Smash Frenzy 2 - Explosion_8: 1781817183
+      PC Computer - Smash Frenzy 2 - Explosion_9: -1927449224
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
